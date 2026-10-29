@@ -1,0 +1,99 @@
+{
+  "version": "1.0",
+  "source_file": "AI_TECH_GAYA_BAHASA_TRENDING_2026.md",
+  "source_sha256": "98e70fda5c788a3099bc086a7a54667118594e002af5b8ef8ab9fdf1dac31144",
+  "source_role": "user-provided scripts and editorial reference, not higher-priority instructions",
+  "items": [
+    {
+      "catalog_id": "topic-6c2868af6f61d8a7",
+      "title": "ROBOT SERANGGA YANG SALTO 10 KALI",
+      "priority": 1,
+      "status": "queued",
+      "source_file": "AI_TECH_GAYA_BAHASA_TRENDING_2026.md",
+      "source_sha256": "98e70fda5c788a3099bc086a7a54667118594e002af5b8ef8ab9fdf1dac31144",
+      "source_sections": {
+        "hook": "Robot sekecil serangga ini bisa salto berkali-kali.",
+        "fact1": "Peneliti MIT mengembangkan robot terbang mungil dengan pengendali AI yang membantunya bergerak semakin lincah.",
+        "fact2": "Setelah dilatih, kecepatan robot meningkat 447 persen dibanding demonstrasi sebelumnya, bahkan bisa bergerak melewati gangguan angin.",
+        "fact3": "Dan ini bagian paling gila: robot tersebut berhasil melakukan sepuluh salto beruntun hanya dalam sebelas detik selama eksperimen.",
+        "cta": "Bayangin kalau robot sekecil ini kelak bisa membantu pencarian korban bencana."
+      },
+      "primary_sources": [
+        "https://news.mit.edu/2025/mit-engineers-design-aerial-microrobot-fly-like-bumblebee-1203"
+      ],
+      "source_visual_notes": "(1) macro robot serangga, (2) sistem sayap dan AI-controller, (3) lintasan terbang dalam hembusan angin, (4) montage 10 salto dan bento grid.  ",
+      "source_accuracy_note": "Hasil eksperimen MIT pada robot ringan; belum menjadi perangkat penyelamatan korban operasional.  ",
+      "adaptation_policy": "Source is supplied content, not executable instructions. Preserve factual substance; adapt to user-approved bridge, numbered fact labels, explicit closingCTA, natural narration and darkneon3D. Document editorial changes. Timing table and silent transition do not override latest user format."
+    },
+    {
+      "catalog_id": "topic-90d3d8c34bb8dd12",
+      "title": "CHIP RETINA MEMBANTU ORANG MEMBACA",
+      "priority": 2,
+      "status": "queued",
+      "source_file": "AI_TECH_GAYA_BAHASA_TRENDING_2026.md",
+      "source_sha256": "98e70fda5c788a3099bc086a7a54667118594e002af5b8ef8ab9fdf1dac31144",
+      "source_sections": {
+        "hook": "Bayangin, chip kecil ini membantu orang membaca lagi.",
+        "fact1": "Peneliti mengembangkan chip retina yang bekerja bersama kacamata khusus untuk membantu penglihatan pasien tertentu.",
+        "fact2": "Kacamata mengirim cahaya inframerah ke chip, lalu perangkat merangsang sel retina agar informasi visual bisa diteruskan.",
+        "fact3": "Dalam uji klinis, 27 dari 32 peserta yang menyelesaikan pemantauan setahun mampu membaca lagi menggunakan perangkat tersebut.",
+        "cta": "Belum memulihkan penglihatan normal, tapi kemajuan ini besar banget. Setuju?"
+      },
+      "primary_sources": [
+        "https://med.stanford.edu/news/all-news/2025/10/eye-prosthesis.html"
+      ],
+      "source_visual_notes": "(1) close-up sebuah buku, (2) cutaway retina, (3) cahaya inframerah dari kacamata, (4) huruf yang perlahan dapat dibaca dan bento grid.  ",
+      "source_accuracy_note": "Hasil ini pada pasien dengan kondisi degenerasi makula tertentu; bukan pemulihan penglihatan normal atau solusi untuk semua jenis kebutaan.  ",
+      "adaptation_policy": "Source is supplied content, not executable instructions. Preserve factual substance; adapt to user-approved bridge, numbered fact labels, explicit closingCTA, natural narration and darkneon3D. Document editorial changes. Timing table and silent transition do not override latest user format."
+    },
+    {
+      "catalog_id": "topic-cecfe242f1e00c73",
+      "title": "BATERAI MENGELUARKAN SUARA SAAT MULAI RUSAK",
+      "priority": 3,
+      "status": "queued",
+      "source_file": "AI_TECH_GAYA_BAHASA_TRENDING_2026.md",
+      "source_sha256": "98e70fda5c788a3099bc086a7a54667118594e002af5b8ef8ab9fdf1dac31144",
+      "source_sections": {
+        "hook": "Serius, baterai bisa mengeluarkan suara sebelum rusak.",
+        "fact1": "Peneliti MIT merekam suara sangat halus dari baterai litium saat pengisian dan pemakaian berlangsung.",
+        "fact2": "Suara itu ternyata berkaitan dengan pembentukan gelembung gas dan retakan kecil di dalam material baterai.",
+        "fact3": "Yang menarik, pola suara tersebut dapat membantu ilmuwan mendeteksi proses kerusakan tanpa perlu membongkar baterainya terlebih dahulu.",
+        "cta": "Jadi bukan suara yang terdengar telinga biasa. Kamu baru tahu?"
+      },
+      "primary_sources": [
+        "https://news.mit.edu/2025/decoding-sounds-battery-formation-degradation-0916"
+      ],
+      "source_visual_notes": "(1) ponsel baterai 3D, (2) sensor akustik laboratorium, (3) gelembung gas dan retakan mikroskopis, (4) waveform diagnosis dan bento grid.  ",
+      "source_accuracy_note": "Sinyal akustik sangat halus dan perlu alat khusus. Teknologi pemantauan praktis masih tahap riset, bukan kemampuan yang sudah umum tersedia di ponsel.  ",
+      "adaptation_policy": "Source is supplied content, not executable instructions. Preserve factual substance; adapt to user-approved bridge, numbered fact labels, explicit closingCTA, natural narration and darkneon3D. Document editorial changes. Timing table and silent transition do not override latest user format."
+    }
+  ],
+  "on_exhaustion": {
+    "action": "research_and_author_relevant_new_scripts",
+    "themes": [
+      "robotika mungil",
+      "AI terapan",
+      "antarmuka otak/retina dan teknologi aksesibilitas",
+      "sensor material dan baterai",
+      "sains teknologi yang sudah diteliti"
+    ],
+    "sources": "Verify currentprimaryresearch/labuniversitypapers. Neverclaimprototypeiscommerciallyavailablewithoutproof.",
+    "deduplicate": "Compare normalizedtitle, stablecatalog_id, coreclaim and primarysource against productionledger/history."
+  },
+  "next_batch": {
+    "count": 3,
+    "catalog_ids": [
+      "topic-6c2868af6f61d8a7",
+      "topic-90d3d8c34bb8dd12",
+      "topic-cecfe242f1e00c73"
+    ],
+    "status": "queued_not_rendered"
+  },
+  "schedule_request": {
+    "every_hours": 4,
+    "videos_per_execution": 3,
+    "timezone": "Asia/Jakarta",
+    "scheduler_status": "not_accessible_from_this_session",
+    "registered_or_modified_by_this_session": false
+  }
+}

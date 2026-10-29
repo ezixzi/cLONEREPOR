@@ -1,0 +1,22 @@
+{
+  "title": "Produksi 3 Reels AI & Tech",
+  "requested_schedule": {
+    "kind": "interval",
+    "every": 4,
+    "unit": "hours",
+    "timezone": "Asia/Jakarta",
+    "preserve_existing_task_start_time": true
+  },
+  "instructions_file": "reels-batch-task.txt",
+  "instructions_url": "https://github.com/ezixzi/cLONEREPOR/raw/refs/heads/main/reels-batch-task.txt",
+  "source_file": "AI_TECH_GAYA_BAHASA_TRENDING_2026.md",
+  "queue_file": "ai-tech-production-queue.json",
+  "videos_per_execution": 3,
+  "on_source_exhaustion": "research and author new relevant AI/technology topics with primary sources",
+  "scheduler_registration": {
+    "created_or_modified": false,
+    "status": "Tasks API unavailable in this session; user must update existing task instructions in UI",
+    "active_state_verified": false,
+    "next_execution_verified": false
+  }
+}

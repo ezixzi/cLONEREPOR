@@ -1,0 +1,26 @@
+[
+  {
+    "catalog_id": "topic-6c2868af6f61d8a7",
+    "url": "https://news.mit.edu/2025/mit-engineers-design-aerial-microrobot-fly-like-bumblebee-1203",
+    "http_status": 200,
+    "page_title": "MIT engineers design an aerial microrobot that can fly as fast as a bumblebee | MIT News | Massachusetts Institute of Technology",
+    "bytes": 141239,
+    "note": "HTTP/title check only; research claims must be verified against full article before each production."
+  },
+  {
+    "catalog_id": "topic-90d3d8c34bb8dd12",
+    "url": "https://med.stanford.edu/news/all-news/2025/10/eye-prosthesis.html",
+    "http_status": 200,
+    "page_title": "Eye prosthesis is the first to restore sight lost to macular degeneration",
+    "bytes": 126116,
+    "note": "HTTP/title check only; research claims must be verified against full article before each production."
+  },
+  {
+    "catalog_id": "topic-cecfe242f1e00c73",
+    "url": "https://news.mit.edu/2025/decoding-sounds-battery-formation-degradation-0916",
+    "http_status": 200,
+    "page_title": "Decoding the sounds of battery formation and degradation | MIT News | Massachusetts Institute of Technology",
+    "bytes": 116722,
+    "note": "HTTP/title check only; research claims must be verified against full article before each production."
+  }
+]
