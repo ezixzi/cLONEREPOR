@@ -1,0 +1,53 @@
+{
+  "version": "1.0",
+  "completed": [
+    {
+      "project": "data-kaca-neon",
+      "catalog_id": "topic-d3a0a5bb96113f5a",
+      "title": "Data Bisa Disimpan dalam Kaca Selama Ribuan Tahun",
+      "filename": "data-dalam-kaca-dark-neon.mp4",
+      "duration_seconds": 40,
+      "sha256": "dfe9910725803fda96614aa1fd95a753eac3aeb80e3b51373b1296a2f4f7989e",
+      "bytes": 10187463,
+      "url": "https://github.com/ezixzi/cLONEREPOR/raw/refs/heads/main/data-dalam-kaca-dark-neon.mp4"
+    },
+    {
+      "project": "levitasi-suara-neon",
+      "catalog_id": "topic-b54354b4fbdf976d",
+      "title": "Benda Bisa Melayang Hanya dengan Gelombang Suara",
+      "filename": "benda-melayang-suara-dark-neon.mp4",
+      "duration_seconds": 41,
+      "sha256": "084bd24d711d3e7c04406413c8e0fb5b53e7b77cc1793984a894a27989e0675b",
+      "bytes": 13980687,
+      "url": "https://github.com/ezixzi/cLONEREPOR/raw/refs/heads/main/benda-melayang-suara-dark-neon.mp4"
+    },
+    {
+      "project": "aerogel-antariksa-neon",
+      "catalog_id": "topic-a28eb54af22f856b",
+      "title": "Material Ini Hampir Seluruhnya Udara",
+      "filename": "aerogel-hampir-udara-dark-neon.mp4",
+      "duration_seconds": 40,
+      "sha256": "4093a50b40cc6130d9cc2c5f113c796db95103ddce81a16b20111b714dcc34ed",
+      "bytes": 11359401,
+      "url": "https://github.com/ezixzi/cLONEREPOR/raw/refs/heads/main/aerogel-hampir-udara-dark-neon.mp4"
+    }
+  ],
+  "batches": [
+    {
+      "batch_id": "batch-001",
+      "completed_at": "2026-10-29T00:00:29.441351+00:00",
+      "catalog_ids": [
+        "topic-d3a0a5bb96113f5a",
+        "topic-b54354b4fbdf976d",
+        "topic-a28eb54af22f856b"
+      ]
+    }
+  ],
+  "source_url": "https://chatgpt.com/share/6ae282da-f6bc-83ec-8c13-3e07a35e40af",
+  "requested_schedule": {
+    "videos_per_batch": 3,
+    "interval_hours": 4,
+    "timezone": "Asia/Jakarta",
+    "scheduler_registered_by_this_session": false
+  }
+}
