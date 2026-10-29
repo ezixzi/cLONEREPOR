@@ -40,6 +40,16 @@
       "sha256": "7ef12ac5b850932da757c6ba9336e606d37cf9b59c1f2cd15248c966381d8669",
       "bytes": 14065239,
       "url": "https://github.com/ezixzi/cLONEREPOR/raw/refs/heads/main/pajak-paling-aneh-dark-neon.mp4"
+    },
+    {
+      "project": "tidur-hewan-dark-neon",
+      "catalog_id": "topic-16b369d9387f7d77",
+      "title": "3 Cara Tidur Hewan Paling Ekstrem di Bumi",
+      "filename": "cara-tidur-hewan-dark-neon.mp4",
+      "duration_seconds": 50.005,
+      "sha256": "7b78a867e7601e0ad2897d64496249d35fd8fb9d4511b01b238ff1d6b4c57875",
+      "bytes": 9982250,
+      "url": "https://github.com/ezixzi/cLONEREPOR/raw/refs/heads/main/cara-tidur-hewan-dark-neon.mp4"
     }
   ],
   "batches": [
@@ -65,6 +75,11 @@
       "project": "pajak-aneh-dark-neon",
       "completed_at": "2026-10-29T09:45:59.250689+00:00",
       "structure": "Hook → Udah tau? → Fakta pertama → Fakta kedua → Dan fakta ketiga → CTA"
+    },
+    {
+      "project": "tidur-hewan-dark-neon",
+      "completed_at": "2026-10-29T10:12:33.799390+00:00",
+      "structure": "Hook → Yuk cek 3 fakta hari ini → Fakta pertama → Fakta kedua → Dan fakta ketiga → CTA"
     }
   ]
 }
