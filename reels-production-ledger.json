@@ -30,6 +30,16 @@
       "sha256": "4093a50b40cc6130d9cc2c5f113c796db95103ddce81a16b20111b714dcc34ed",
       "bytes": 11359401,
       "url": "https://github.com/ezixzi/cLONEREPOR/raw/refs/heads/main/aerogel-hampir-udara-dark-neon.mp4"
+    },
+    {
+      "project": "pajak-aneh-dark-neon",
+      "catalog_id": "topic-13085e42c924e4c9",
+      "title": "3 Pajak Paling Aneh yang Pernah Berlaku di Dunia",
+      "filename": "pajak-paling-aneh-dark-neon.mp4",
+      "duration_seconds": 47.019,
+      "sha256": "7ef12ac5b850932da757c6ba9336e606d37cf9b59c1f2cd15248c966381d8669",
+      "bytes": 14065239,
+      "url": "https://github.com/ezixzi/cLONEREPOR/raw/refs/heads/main/pajak-paling-aneh-dark-neon.mp4"
     }
   ],
   "batches": [
@@ -49,5 +59,12 @@
     "interval_hours": 4,
     "timezone": "Asia/Jakarta",
     "scheduler_registered_by_this_session": false
-  }
+  },
+  "individual_tests": [
+    {
+      "project": "pajak-aneh-dark-neon",
+      "completed_at": "2026-10-29T09:45:59.250689+00:00",
+      "structure": "Hook → Udah tau? → Fakta pertama → Fakta kedua → Dan fakta ketiga → CTA"
+    }
+  ]
 }
