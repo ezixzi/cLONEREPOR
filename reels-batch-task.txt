@@ -1,3 +1,7 @@
+KONTROL TERBARU — 30 OKTOBER 2026
+Sebelum tindakan produksi apa pun, baca https://github.com/ezixzi/cLONEREPOR/raw/refs/heads/main/production-control.json . Saat production_allowed=false, JANGAN memproduksi video atau memanggil TTS; laporkan bahwa naskah disimpan dan produksi ditahan oleh pengguna. Jangan menganggap interval 4jam sebagai izin melanjutkan. Jika kontrol tidak dapat dibaca, jangan memakai antrean lama untuk mengatasi kegagalan.
+Naskah pengganti tersimpan: naskah_40detik_terbaru_30hari_vol4.md, antrean vol4-production-queue.json. Antrean AI/Tech sebelumnya telah diganti. Pengguna memilih ElevenLabs dengan Secret ELEVENLABS_API_KEY; jangan otomatis memakai gTTS/Piper. Kelanjutan produksi membutuhkan instruksi eksplisit pengguna. Perbaikan environment dan tes teknis tanpa TTS berbayar diizinkan. Instruksi lama di bawah hanya berlaku setelah produksi diizinkan kembali dan sepanjang tidak bertentangan dengan pembaruan ini.
+
 Jalankan SATU batch produksi lengkap berisi 3 video baru setiap kali task ini dipicu. Jadwal yang diminta pengguna: interval setiap 4 jam, Asia/Jakarta. Jangan membuat scheduler/loop baru dari dalam task dan jangan menggandakan task yang sudah ada.
 
 SUMBER DAN ANTREAN
