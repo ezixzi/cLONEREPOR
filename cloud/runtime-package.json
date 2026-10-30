@@ -1,0 +1,11 @@
+{
+  "version": "2",
+  "archive": "OpenMontage-portable-neon-v2.zip",
+  "sha256": "7fa4ee1c9938c5255f802e0ffd4d678107d8ad4c4965f12311026b92f441dfb2",
+  "bytes": 77591496,
+  "bootstrap": "cloud/bootstrap_runtime.py",
+  "bootstrap_sha256": "cc7ceab870fde3184f008ceec8cd776617a321c6b4661de44e886f75d52eaa98",
+  "runtime_path": "/workspace/openmontage-runtime",
+  "production_voice": "elevenlabs_requested",
+  "production_allowed": false
+}

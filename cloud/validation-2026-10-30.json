@@ -1,0 +1,36 @@
+{
+  "test_date": "2026-10-30",
+  "fresh_isolated_install": true,
+  "pip_check": "passed",
+  "npm_ci": "passed",
+  "source_manifest_verification": "passed",
+  "incorrect_checksum_rejected_before_extraction": true,
+  "repeat_bootstrap_without_reinstall": "passed",
+  "smoke": {
+    "runtime_render_passed": true,
+    "resolution": "1080x1920",
+    "fps": 30,
+    "frames": 120,
+    "duration_seconds": 4,
+    "video_codec": "h264",
+    "pixel_format": "yuv420p",
+    "audio_codec": "aac",
+    "full_decode": "passed",
+    "audio_content": "calibration tone; does not validate narration or ElevenLabs auth",
+    "paid_voice_calls": 0,
+    "sha256": "872b61651978543436f424128e034023796c37d6619517f385c8fb323730eec7",
+    "file_bytes": 812241,
+    "output": "/workspace/.openmontage/releases/7fa4ee1c9938c525/OpenMontage/projects/cloud-runtime-smoke/renders/smoke.mp4"
+  },
+  "visual_smoke_frame_reviewed": true,
+  "elevenlabs": {
+    "provider": "elevenlabs",
+    "credential_present": false,
+    "authentication_verified": false,
+    "paid_synthesis_calls": 0,
+    "status": "credential_missing"
+  },
+  "scheduler_modified": false,
+  "vol4_production": "held_by_user",
+  "new_cloud_task_restoration": "not tested; isolatedruntimeoncurrentmachineonly"
+}
