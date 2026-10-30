@@ -9,8 +9,12 @@
   "voice": {
     "provider": "elevenlabs",
     "secret_name": "ELEVENLABS_API_KEY",
-    "authentication_verified": false,
-    "synthesis_allowed_now": false
+    "authentication_verified": true,
+    "synthesis_allowed_now": false,
+    "voice_name": "Jessica - Playful, Bright, Warm",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "authentication_verification": "Voice readendpointHTTP200; subscriptionpermissionmissinguser_read, no paidvoicecall",
+    "synthesis_verified": false
   },
   "schedule_request": {
     "videos_per_execution": 3,
@@ -20,5 +24,6 @@
   },
   "production_allowed": false,
   "setup_and_technical_checks_allowed": true,
-  "resume_requires": "Explicit user instruction to resume production; do not resume merely because four hours elapsed."
+  "resume_requires": "Explicit user instruction to resume production; do not resume merely because four hours elapsed.",
+  "creator_profile_file": "creator-production-profile.json"
 }

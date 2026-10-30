@@ -1,0 +1,45 @@
+{
+  "version": "1.0",
+  "narration": {
+    "provider": "elevenlabs",
+    "voice_name": "Jessica - Playful, Bright, Warm",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "voice_access_verified": true,
+    "verification": "Authenticated GET voice endpoint HTTP200; no synthesis performed",
+    "language": "Indonesian",
+    "delivery": "Warm female storytelling, clear pronunciation, comfortable conversational tempo, meaningful pauses; no forced40second duration, no atempo, no cutoff",
+    "pronunciation_checks": [
+      "numbers",
+      "Indonesian phrasing",
+      "foreign terms and acronyms",
+      "proper names"
+    ],
+    "quota_read_permission": "user_read missing; optional subscription inspection unavailable, not evidence of invalid key",
+    "tts_synthesis_verified": false,
+    "automatic_fallback": false
+  },
+  "story_structure": [
+    "Immersive standalone hook addressing viewer, textvisibleframe0–3.5s",
+    "Yuk cek tiga fakta hari ini.",
+    "Tease third fact when warranted: Yang ketiga mungkin bikin kamu nggak nyangka.",
+    "Fakta pertama: establish relatable context",
+    "Fakta kedua: build curiosity through process/consequence",
+    "Dan fakta ketiga: short pause then evidence-grounded payoff and visualreveal",
+    "Closing CTA referring to the opening situation; narration AND screen text"
+  ],
+  "visuals": {
+    "style": "dark cinematic native3D neon cyan/lime/magenta",
+    "improvements_authorized": [
+      "topic-relevant object shape and detail",
+      "lighting and silhouette",
+      "macro/orbit/dolly/zoom camera",
+      "object motion and explanatory animation",
+      "transitions and contextualSFX",
+      "readable typography and captions"
+    ],
+    "preserve_story_structure": true
+  },
+  "production_allowed": false,
+  "source_file": "naskah_40detik_terbaru_30hari_vol4.md",
+  "note": "Userapprovednarrator/structurepreferences; prior explicit hold on production remains until user resumes."
+}
