@@ -9,8 +9,8 @@
   },
   "instructions_file": "reels-batch-task.txt",
   "instructions_url": "https://github.com/ezixzi/cLONEREPOR/raw/refs/heads/main/reels-batch-task.txt",
-  "source_file": "AI_TECH_GAYA_BAHASA_TRENDING_2026.md",
-  "queue_file": "ai-tech-production-queue.json",
+  "source_file": "naskah_40detik_terbaru_30hari_vol4.md",
+  "queue_file": "vol4-production-queue.json",
   "videos_per_execution": 3,
   "on_source_exhaustion": "research and author new relevant AI/technology topics with primary sources",
   "scheduler_registration": {
@@ -18,5 +18,9 @@
     "status": "Tasks API unavailable in this session; user must update existing task instructions in UI",
     "active_state_verified": false,
     "next_execution_verified": false
-  }
+  },
+  "production_control_file": "production-control.json",
+  "production_allowed": false,
+  "production_voice": "elevenlabs_requested; credential_pending",
+  "note": "User explicitly requested storing scripts without production. Scheduler state unchanged/unverified; do not run content batches until explicit resume."
 }

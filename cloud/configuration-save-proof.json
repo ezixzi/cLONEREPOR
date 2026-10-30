@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-30",
+  "install_script_tested": true,
+  "start_skill_saved": true,
+  "configuration_draft_saved": true,
+  "configuration_readback_exact_match": true,
+  "elevenlabs_secret_requirement_saved": true,
+  "credential_value_present_in_active_runtime": false,
+  "elevenlabs_authentication_verified": false,
+  "requires_user_publish": true,
+  "published_environment_verified": false,
+  "scheduled_task_modified": false,
+  "fresh_scheduled_task_run_verified": false,
+  "vol4_scripts_saved": 30,
+  "production_allowed": false,
+  "new_content_videos_produced": 0,
+  "technical_smoke_only": true,
+  "install_script_sha256": "9061e2acb8898424faeba06a050c0e121b50611d7e8e12b433c1edeba774a4af",
+  "start_skill_sha256": "a08d3315172edde5507198fa40196e645c45e268dddcf7000b9b5547ecc1a575"
+}
